@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a5d8ff&height=150&section=header&text=welcome&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a5d8ff&height=150&section=header&text=meow&fontSize=100" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongyunnim)](https://github.com/anuraghazra/github-readme-stats)
 
